@@ -27,23 +27,36 @@ Each team must submit:
 ---
 
 ## 🛠 How to Submit
-1. Work in your **private team repo** (auto-created via GitHub Classroom).  
-2. Before the deadline:
-   - Commit and push your latest code.
+1. **Create your repo**:  
+   - Go to the public template for your track (A, B, or C).  
+   - Click **“Use this template”** → **Create a new repo** under your own GitHub account or org.  
+   - Set the repo visibility to **Private**.  
+
+2. **Add organizer as collaborator**:  
+   - Go to your repo → Settings → Collaborators → Add  
+   - Add GitHub user **`mav913ai`** as a collaborator with write access.  
+   - This is required so that we can review your submission.  
+
+3. **Develop in your private repo** during the hackathon.  
+
+4. **At submission time (before 18:00):**  
+   - Commit and push your latest code.  
    - Tag your final commit as:
      ```bash
      git tag final
      git push origin final
      ```
    - Open a Pull Request in your repo titled **"Final Submission"**.
-3. Your PR should include:
-   - A link to your `RUN.md`.
-   - A link to your sample input/output files.
+   - Your PR should include:
+     - A link to your `RUN.md`.  
+     - A link to your sample input/output files.  
 
 ---
 
 ## ✅ Submission Checklist
-- [ ] Code pushed to team repo.  
+- [ ] Repo created from template and set to **Private**.  
+- [ ] **`mav913ai`** added as collaborator.  
+- [ ] Code pushed to repo.  
 - [ ] `final` tag created and pushed.  
 - [ ] Pull Request titled **"Final Submission"** opened.  
 - [ ] `RUN.md` with setup & run instructions included.  
@@ -62,10 +75,9 @@ Submissions will be judged based on:
 ---
 
 ## ⚖️ IP & License
-
 - All code created during the hackathon remains the property of the participants.  
 - By participating, you grant **913.ai** a perpetual, worldwide, royalty-free license to use, adapt, and commercialize your submissions in any way.  
-- You retain the right to use and showcase your work (e.g., in your portfolio, GitHub profile, LinkedIn, or future projects).
+- You retain the right to use and showcase your work (e.g., in your portfolio, GitHub profile, LinkedIn, or future projects).  
 
 ---
 
