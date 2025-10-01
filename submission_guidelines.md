@@ -62,9 +62,10 @@ Submissions will be judged based on:
 ---
 
 ## ⚖️ IP & License
-- By participating, you agree that all code created during the hackathon is **assigned to 913.ai**.  
-- You retain a **non-commercial right** to showcase your project (portfolio, GitHub profile, LinkedIn).  
-- All commercial rights remain with 913.ai.  
+
+- All code created during the hackathon remains the property of the participants.  
+- By participating, you grant **913.ai** a perpetual, worldwide, royalty-free license to use, adapt, and commercialize your submissions in any way.  
+- You retain the right to use and showcase your work (e.g., in your portfolio, GitHub profile, LinkedIn, or future projects).
 
 ---
 
